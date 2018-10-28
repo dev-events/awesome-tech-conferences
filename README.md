@@ -35,11 +35,10 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 
 ### [DevTernity](https://devternity.com) ・ Riga, Latvia・Nov 30 - 1
 [![DevTernity Rating](https://img.shields.io/badge/Rating-A-brightgreen.svg?longCache=true&style=flat-square)](https://itconference.top)
-![DevTernity CFP](https://img.shields.io/badge/CFP-x-red.svg?longCache=true&style=flat-square)
-[![DevTernity on Twitter](https://img.shields.io/badge/@devternity-black.svg?logo=twitter&longCache=true&style=flat-square)](https://twitter.com/devternity)
-[![DevTernity on DevTube](https://img.shields.io/badge/devternity-black.svg?logo=youtube&longCache=true&style=flat-square)](https://dev.tube/channel/DevTernity)
+[![DevTernity on Twitter](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter&longCache=true&style=flat-square)](https://twitter.com/devternity)
+[![DevTernity on DevTube](https://img.shields.io/badge/devternity-grey.svg?logo=youtube&longCache=true&style=flat-square)](https://dev.tube/channel/DevTernity)
 
-`#cross-discipline` `#code design` `#software architecture` `#leadership`
+`#general` `#code design` `#software architecture` `#leadership`
 
 > DevTernity has been turning developers into architects and engineering leaders since 2015. By having some of the most known IT rockstars, the conference brings the conferencing experience to a completely new level. The amount of takeaways from this conference is extraordinary. — [@eduardsi](https://twitter.com/eduardsi)
 
@@ -48,3 +47,12 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 > :bulb: please keep chronological ordering
 
 > :bulb: use DevTernity conference as a reference
+
+> :bulb: only 4 tags max are allowed
+
+> :bulb: only supported badges allowed:
+
+[![DevTernity Rating](https://img.shields.io/badge/Rating-A-brightgreen.svg?longCache=true&style=flat-square)](https://itconference.top)
+[![CFP](https://img.shields.io/badge/CFP-Oct%2012%202018-brightgreen.svg?longCache=true&style=flat-square)](https://devternity.com)
+[![DevTernity on Twitter](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter&longCache=true&style=flat-square)](https://twitter.com/devternity)
+[![DevTernity on DevTube](https://img.shields.io/badge/devternity-grey.svg?logo=youtube&longCache=true&style=flat-square)](https://dev.tube/channel/DevTernity)
