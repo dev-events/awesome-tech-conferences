@@ -34,9 +34,9 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 ## 2018
 
 ### [DevTernity](https://devternity.com) ・ Riga, Latvia・Nov 30 - 1
-[![DevTernity Rating](https://img.shields.io/badge/Rating-A-brightgreen.svg?longCache=true&style=flat-square)](https://itconference.top)
-[![DevTernity on Twitter](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter&longCache=true&style=flat-square)](https://twitter.com/devternity)
-[![DevTernity on DevTube](https://img.shields.io/badge/devternity-grey.svg?logo=youtube&longCache=true&style=flat-square)](https://dev.tube/channel/DevTernity)
+[![](https://img.shields.io/badge/Rating-A-brightgreen.svg)](https://itconference.top)
+[![](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter)](https://twitter.com/devternity)
+[![](https://img.shields.io/badge/devternity-grey.svg?logo=youtube)](https://dev.tube/channel/DevTernity)
 
 `#general` `#code design` `#software architecture` `#leadership`
 
@@ -52,7 +52,7 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 
 > :bulb: only supported badges allowed:
 
-[![DevTernity Rating](https://img.shields.io/badge/Rating-A-brightgreen.svg?longCache=true&style=flat-square)](https://itconference.top)
-[![CFP](https://img.shields.io/badge/CFP-Oct%2012%202018-brightgreen.svg?longCache=true&style=flat-square)](https://devternity.com)
-[![DevTernity on Twitter](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter&longCache=true&style=flat-square)](https://twitter.com/devternity)
-[![DevTernity on DevTube](https://img.shields.io/badge/devternity-grey.svg?logo=youtube&longCache=true&style=flat-square)](https://dev.tube/channel/DevTernity)
+[![](https://img.shields.io/badge/Rating-A-brightgreen.svg)](https://itconference.top)
+[![](https://img.shields.io/badge/CFP-Oct%2012%202018-brightgreen.svg)](https://devternity.com)
+[![](https://img.shields.io/badge/@devternity-grey.svg?logo=twitter)](https://twitter.com/devternity)
+[![](https://img.shields.io/badge/devternity-grey.svg?logo=youtube)](https://dev.tube/channel/DevTernity)
