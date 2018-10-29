@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![DevTernity](https://img.shields.io/badge/DevTernity%202018-REGISTER-brightgreen.svg)](https://devternity.com)
 
-<a href="https://www.raspberrypi.org"><img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
+<a href="https://github.com/sindresorhus/awesome"><img src="https://github.com/sindresorhus/awesome/raw/master/media/logo.svg?sanitize=true" alt="Awesome Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > 😎 Curated list of awesome technical conferences.
 
@@ -32,6 +32,8 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 * Quiet rooms and safe space.
 
 ## 2018
+
+<a href="https://github.com/sindresorhus/awesome"><img src="https://avatars.io/twitter/devternity" alt="Awesome Logo" align="left" height="80"></a>
 
 ### [DevTernity](https://devternity.com) ・ Riga, Latvia・Nov 30 - 1
 [![](https://img.shields.io/badge/Rating-A-brightgreen.svg)](https://itconference.top)
