@@ -33,7 +33,7 @@ This list needs is driven by the developer community. Know of an upcoming tech c
 
 ## 2018
 
-<a href="https://github.com/sindresorhus/awesome"><img src="https://avatars.io/twitter/devternity" alt="Awesome Logo" align="left" height="80"></a>
+<a href="https://devternity.com"><img src="https://avatars.io/twitter/devternity" alt="DevTerniy Logo" align="left" height="80"></a>
 
 ### [DevTernity](https://devternity.com) ・ Riga, Latvia・Nov 30 - 1
 [![](https://img.shields.io/badge/Rating-A-brightgreen.svg)](https://itconference.top)
